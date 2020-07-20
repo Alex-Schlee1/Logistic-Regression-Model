@@ -65,7 +65,7 @@ Since we used the ,,One Hot Encoding" Technique, our number of columns increased
 
 After completing the mentioned steps, we can run the Logistic Regression Algorithm on our modified dataset. After cleaning, modifying and cleaning our initial data, it was possible to build a model with an accuracy score of 86,67%: 
 
-<img src='./images/image8.png' width=700>
+<img src='./images/image8.png' width=800>
 
 
 The respective confusion matrix looks like this:
