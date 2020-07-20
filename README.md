@@ -65,12 +65,12 @@ Since we used the ,,One Hot Encoding" Technique, our number of columns increased
 
 After completing the mentioned steps, we can run the Logistic Regression Algorithm on our modified dataset. After cleaning, modifying and cleaning our initial data, it was possible to build a model with an accuracy score of 86,67%: 
 
-<img src='./images/image8.png' width=400>
+<img src='./images/image8.png' width=700>
 
 
 The respective confusion matrix looks like this:
 
-<img src='./images/image5.png' width=400>
+<img src='./images/image5.png' width=500>
 
 The confusion matrix is something like an error matrix to describe a performance of a model. 
 
@@ -78,11 +78,13 @@ In our scenario we have 7151 True Positive and 895 True Negative (Type I Error) 
 Next, we have 1260 True Negative and 6859 False Negative (Type II Error) values.
 
 After analyzing the confusion matrix, we can derive a classification report:
-<img src='./images/image7.png' width=400>
+
+<img src='./images/image7.png' width=500>
 
 
 This is an overview how the precision, the recall and the f1- score are calculated:
-<img src='./images/image9.PNG' width=400>
+
+<img src='./images/image9.PNG' width=500>
 
 
 
