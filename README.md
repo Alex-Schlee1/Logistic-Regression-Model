@@ -50,7 +50,7 @@ The next graph shows the frequency of purchase, based on the profession. The ora
 
 The same we can do for the Education colums (but also for all the other ones):
 
-<img src='./images/image4.PNG' width=600>
+<img src='./images/image4.PNG' width=700>
 
 
 ## Part 3- Model Building
