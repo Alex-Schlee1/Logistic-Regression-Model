@@ -18,6 +18,8 @@
  * Algorithm: Logistic Regression
  * Using dataset from [Kaggle.com](https://www.kaggle.com/)
  * visualization of data using seaborn and matplotlib packages
+ * Using the SMOTE technique for oversampled data
+ * Using the Recursive Feature Elimination (RFE) method to distinguish between necessary and redundant columns
 
  ### Code and Resources
 
