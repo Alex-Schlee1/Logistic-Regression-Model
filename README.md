@@ -26,7 +26,7 @@
 * Packages: Pandas, Seaborn, Numpy, Scikit-learn, SMOTE, Sckit learn
 
 ## Part 1- Dataset Overview
-The dataset, which was taken from Kaggle.com(https://www.kaggle.com/) is showing different information about the customers. The data was collected during marketing campaigns.
+The dataset, which was taken from [Kaggle.com](https://www.kaggle.com/) is showing different information about the customers. The data was collected during marketing campaigns.
 Now the bank wants to analyze the data to be able to predict customers behaviour when new products are offered. 
 
 So the main question is: Who is the potential customer, who can I target? 
