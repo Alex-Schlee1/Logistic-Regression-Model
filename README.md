@@ -33,7 +33,7 @@ So the main question is: Who is the potential customer, who can I target?
 
 In total, the dataset contains more than 40.000 data from different customers. Among others, we have information about the age, the job, the marital status, education, possession of a house or not, having a loan or not and so on.
 Totally, we have 20 independent variables (features) and one dependent variable (target), which is the fact if a customer has bought a certain product (yes/no). I you are interested in getting more information what each independent variable means, you can take a look in the Github repository where the descriptions are provided:
-<img src='./images/image1.PNG' width=400>
+<img src='./images/image1.png' width=400>
 
 ## Part 2- Data Insights
 Data Visualization is always a good approach to get a better understanding of the data and its structure. 
@@ -65,12 +65,12 @@ Since we used the ,,One Hot Encoding" Technique, our number of columns increased
 
 After completing the mentioned steps, we can run the Logistic Regression Algorithm on our modified dataset. After cleaning, modifying and cleaning our initial data, it was possible to build a model with an accuracy score of 86,67%: 
 
-<img src='./images/image8.PNG' width=400>
+<img src='./images/image8.png' width=400>
 
 
 The respective confusion matrix looks like this:
 
-<img src='./images/image5.PNG' width=400>
+<img src='./images/image5.png' width=400>
 
 The confusion matrix is something like an error matrix to describe a performance of a model. 
 
@@ -82,7 +82,7 @@ After analyzing the confusion matrix, we can derive a classification report:
 
 
 This is an overview how the precision, the recall and the f1- score are calculated:
-<img src='./images/image9.png' width=400>
+<img src='./images/image9.PNG' width=400>
 
 
 
