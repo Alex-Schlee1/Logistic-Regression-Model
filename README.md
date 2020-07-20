@@ -45,12 +45,12 @@ The first plot shows a simple relation between the the number of people who boug
 
 The next graph shows the frequency of purchase, based on the profession. The orange bar shows the people who did buy the product whereas the orange bar represents the customers who did not buy:
 
-<img src='./images/image3.PNG' width=400>
+<img src='./images/image3.PNG' width=600>
 
 
 The same we can do for the Education colums (but also for all the other ones):
 
-<img src='./images/image4.PNG' width=400>
+<img src='./images/image4.PNG' width=600>
 
 
 ## Part 3- Model Building
