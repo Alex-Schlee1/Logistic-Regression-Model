@@ -7,7 +7,7 @@
     + [Part 1- Dataset Overview](#part-1--describing-the-dataset)
     + [Part 2- Data Insights](#part-2--data-insights)
     + [Part 3- Model Building](#part-3--model-building)
-    + [Part 4- Deriving possible marketing strategies and conclusion](#part-4--deriving-possible-marketing-strategies-and-conclusion)
+    + [Part 4- Logistic Regression Results](#part-4--logistic-regression-results)
 
 
  ### Credits: 
@@ -70,7 +70,7 @@ After completing the mentioned steps, we can run the Logistic Regression Algorit
 
 The respective confusion matrix looks like this:
 
-<img src='./images/image5.png' width=500>
+<img src='./images/image5.png' width=600>
 
 The confusion matrix is something like an error matrix to describe a performance of a model. 
 
@@ -79,12 +79,12 @@ Next, we have 1260 True Negative and 6859 False Negative (Type II Error) values.
 
 After analyzing the confusion matrix, we can derive a classification report:
 
-<img src='./images/image7.png' width=500>
+<img src='./images/image7.png' width=600>
 
 
 This is an overview how the precision, the recall and the f1- score are calculated:
 
-<img src='./images/image9.PNG' width=500>
+<img src='./images/image9.PNG' width=600>
 
 
 
