@@ -25,7 +25,7 @@
 
 * Python Version: 3.8
 * Environment: Jupyter Notebook
-* Packages: Pandas, Seaborn, Numpy, Scikit-learn, SMOTE, Sckit learn
+* Packages: Pandas, Seaborn, Numpy, Scikit-learn, SMOTE
 
 ## Part 1- Dataset Overview
 The dataset, which was taken from [Kaggle.com](https://www.kaggle.com/) is showing different information about the customers. The data was collected during marketing campaigns.
